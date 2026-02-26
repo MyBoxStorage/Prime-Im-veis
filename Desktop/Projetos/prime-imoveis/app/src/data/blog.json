@@ -1,0 +1,52 @@
+[
+  {
+    "id": "blog-001",
+    "title": "Balneário Camboriú: Por Que a Cidade é o Destino Número 1 para Imóveis de Luxo no Brasil",
+    "category": "Mercado Imobiliário",
+    "date": "15 de Janeiro, 2025",
+    "readTime": "6 min de leitura",
+    "excerpt": "Com a Orla Bardot e os empreendimentos de ultra alto padrão, Balneário Camboriú consolida sua posição como a capital do luxo imobiliário brasileiro.",
+    "image": "https://images.unsplash.com/photo-1628744404730-5e51e2f29c0d?w=800&q=80",
+    "slug": "balneario-camboriu-destino-imoveis-luxo"
+  },
+  {
+    "id": "blog-002",
+    "title": "Investir em Imóveis no Litoral: Tudo Que Você Precisa Saber",
+    "category": "Investimentos",
+    "date": "8 de Janeiro, 2025",
+    "readTime": "8 min de leitura",
+    "excerpt": "Descubra as vantagens de investir no mercado imobiliário costeiro e como maximizar seus retornos com as estratégias certas.",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800&q=80",
+    "slug": "investir-imoveis-litoral-guia"
+  },
+  {
+    "id": "blog-003",
+    "title": "Imóveis na Planta: Vantagens e Como Proteger Seu Investimento",
+    "category": "Comprador",
+    "date": "2 de Janeiro, 2025",
+    "readTime": "5 min de leitura",
+    "excerpt": "Comprar na planta pode oferecer excelentes oportunidades. Aprenda a avaliar empreendimentos e garantir a segurança do seu investimento.",
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80",
+    "slug": "imoveis-na-planta-vantagens"
+  },
+  {
+    "id": "blog-004",
+    "title": "Jurerê Internacional vs. Balneário Camboriú: Qual o Melhor Investimento de Luxo?",
+    "category": "Comparativos",
+    "date": "20 de Dezembro, 2024",
+    "readTime": "7 min de leitura",
+    "excerpt": "Análise comparativa dos dois destinos mais cobiçados do litoral brasileiro para quem busca imóveis de alto padrão.",
+    "image": "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?w=800&q=80",
+    "slug": "jurere-internacional-vs-balneario-camboriu"
+  },
+  {
+    "id": "blog-005",
+    "title": "Os Novos Empreendimentos de Luxo Transformando a Orla de Itapema",
+    "category": "Lançamentos",
+    "date": "15 de Dezembro, 2024",
+    "readTime": "5 min de leitura",
+    "excerpt": "Conheça os projetos mais ambiciosos que estão redefinindo o perfil imobiliário de Itapema e atraindo investidores de todo o Brasil.",
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+    "slug": "empreendimentos-luxo-itapema"
+  }
+]

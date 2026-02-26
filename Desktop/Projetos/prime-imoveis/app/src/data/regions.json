@@ -1,0 +1,56 @@
+[
+  {
+    "id": "balneario",
+    "name": "Balneário Camboriú",
+    "tagline": "O Dubai Brasileiro",
+    "description": "A capital do luxo imobiliário nacional. Orla urbanizada, arranha-céus premiados e o metro quadrado mais valorizado do Brasil fora de São Paulo.",
+    "propertiesCount": 20,
+    "priceRange": "R$ 800K – R$ 20M",
+    "highlight": "Orla Bardot & Ponta das Canas"
+  },
+  {
+    "id": "itapema",
+    "name": "Itapema",
+    "tagline": "O Novo Polo de Luxo",
+    "description": "Uma das cidades que mais crescem no litoral catarinense. Combina praias deslumbrantes com empreendimentos de alto padrão em constante expansão.",
+    "propertiesCount": 10,
+    "priceRange": "R$ 500K – R$ 5M",
+    "highlight": "Meia Praia & Ilhota"
+  },
+  {
+    "id": "bombinhas",
+    "name": "Bombinhas",
+    "tagline": "Paraíso das Ilhas",
+    "description": "Um santuário ecológico com praias preservadas e águas cristalinas. Destino perfeito para quem busca exclusividade em meio à natureza.",
+    "propertiesCount": 8,
+    "priceRange": "R$ 600K – R$ 6M",
+    "highlight": "Bombas, Zimbros & Quatro Ilhas"
+  },
+  {
+    "id": "itajai",
+    "name": "Itajaí",
+    "tagline": "Cidade Portuária em Transformação",
+    "description": "O segundo maior porto do Brasil se reinventa com bairros residenciais de qualidade e excelente infraestrutura urbana.",
+    "propertiesCount": 8,
+    "priceRange": "R$ 400K – R$ 3M",
+    "highlight": "Barra do Rio & Cordeiros"
+  },
+  {
+    "id": "florianopolis",
+    "name": "Florianópolis",
+    "tagline": "A Ilha do Silício Brasileiro",
+    "description": "Capital catarinense que une tecnologia, natureza e sofisticação. Jurerê Internacional é referência nacional em imóveis de luxo.",
+    "propertiesCount": 5,
+    "priceRange": "R$ 1M – R$ 8M",
+    "highlight": "Jurerê Internacional & Lagoa"
+  },
+  {
+    "id": "navegantes",
+    "name": "Navegantes",
+    "tagline": "Potencial em Ascensão",
+    "description": "Cidade em franco desenvolvimento com proximidade ao aeroporto internacional. Excelente custo-benefício para investidores visionários.",
+    "propertiesCount": 4,
+    "priceRange": "R$ 350K – R$ 1,5M",
+    "highlight": "Centro & Gravatá"
+  }
+]
