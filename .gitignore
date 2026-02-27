@@ -1,0 +1,14 @@
+# Dependências
+app/node_modules/
+
+# Build
+app/dist/
+
+# Ambiente
+app/.env
+app/.env.local
+app/.env.*.local
+
+# Sistema
+.DS_Store
+Thumbs.db
